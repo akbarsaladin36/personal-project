@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap");
+
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  max-width: 1335px;
+}
+
+.col-md-7 {
+  background-color: purple;
+}
+
+.image-background {
+  width: 100%;
+  opacity: 50%;
+}
+
+.image-logo {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 10%;
+  left: 10%;
+  right: 5%;
+}
+
+.image-logo-text {
+  color: white;
+  position: absolute;
+  margin: auto;
+  top: 55%;
+  bottom: 0;
+  left: 30%;
+  right: 0;
+}
+
+.signup-text {
+  font-weight: bold;
+}
+
+.sign-in-span-text {
+  opacity: 50%;
+  text-align: justify;
+}
+
+.sign-in-span-2-text {
+  opacity: 50%;
+  text-align: center;
+}
+
+.sign-in-button-1 {
+  background-color: purple !important;
+}
+
+.reset-text {
+  color: purple;
+}
+
+.sign-in-button {
+  text-align: center;
+}
+
+.image-logo-2 {
+  width: 90%;
+}
+
+.sign-up-button-1 {
+  background-color: purple !important;
+  color: white;
+}
+
+.bg-light {
+  background-color: white !important;
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+.header-text {
+  opacity: 50%;
+  font-size: large;
+}
+
+.header-big-text {
+  color: purple;
+}
+
+.header-image {
+  filter: brightness(60%);
+}
+
+.now-showing-text {
+  color: purple;
+}
+
+.view-all-text-1 {
+  text-decoration: none;
+  color: purple;
+}
+
+.view-all-text-1:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+.jumbotron-2 {
+  background-color: white !important;
+}
+
+.month-button {
+  background-color: white;
+  color: purple;
+  border-color: purple;
+  width: 10%;
+}
+
+.month-button:hover {
+  background-color: purple;
+  color: white;
+}
+
+.movie-detail-button {
+  background-color: white;
+  color: purple;
+  border-color: purple;
+}
+
+.movie-detail-button:hover {
+  background-color: purple;
+  color: white;
+}
+
+.upcoming-movies-span-text {
+  opacity: 50%;
+}
+
+.join-email-text-1 {
+  color: purple;
+}
+
+.join-us-button {
+  background-color: purple;
+  color: white;
+}
+
+.join-email-text-2 {
+  opacity: 50%;
+}
+
+.footer-text {
+  opacity: 50%;
+}
+
+.profile-picture-size {
+  width: 40px;
+}
+
+.movie-details-genre-text {
+  opacity: 80%;
+}
+
+.movie-details-genre-text-1 {
+  opacity: 40%;
+}
+
+.movie-details-text {
+  opacity: 40%;
+  text-align: justify;
+  line-height: 245%;
+}
+
+.showing-big-text {
+  text-align: center;
+}

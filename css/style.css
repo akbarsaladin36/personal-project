@@ -175,3 +175,75 @@
 .showing-big-text {
   text-align: center;
 }
+
+.bioskop-text {
+  opacity: 50%;
+  font-size: 13px;
+}
+
+.bioskop-button-1 {
+  border-color: purple;
+  background-color: purple;
+  color: white;
+}
+
+.bioskop-button-2 {
+  color: purple;
+}
+
+.profile-status-1 {
+  opacity: 40%;
+}
+
+.container-3 {
+  background-color: gray;
+}
+
+.profile-status-card {
+  width: fit-content;
+}
+
+.white-text-profile-card {
+  display: flex;
+  position: absolute;
+  color: white;
+  margin: auto;
+  top: 55%;
+  bottom: 0;
+  left: 20%;
+  right: 0;
+}
+
+.white-text-profile-card-2 {
+  display: flex;
+  position: absolute;
+  color: white;
+  margin: auto;
+  top: 63%;
+  bottom: 0;
+  left: 20%;
+  right: 0;
+}
+
+.progress-bar {
+  height: 10px;
+  width: 25%;
+}
+
+.movie-detail-card {
+  width: 200px;
+}
+
+.update-profile-button {
+  background-color: purple;
+  color: white;
+}
+
+.payment-information-text-1 {
+  opacity: 45%;
+}
+
+.payment-button {
+  border-color: black;
+  width: 140px;
+}

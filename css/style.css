@@ -4,7 +4,7 @@
   font-family: "Inter", sans-serif;
 }
 
-@media (max-width: 1000px) {
+@media screen and (max-width: 750px) {
   .image-logo {
     position: absolute;
     margin: auto;
@@ -14,8 +14,15 @@
     right: 50%;
   }
 
-  .col-md-5 {
-    margin-bottom: 10px;
+  .white-text-profile-card-2 {
+    display: flex;
+    position: absolute;
+    color: black;
+    margin: auto;
+    top: 50%;
+    bottom: 0;
+    left: 20%;
+    right: 0;
   }
 }
 

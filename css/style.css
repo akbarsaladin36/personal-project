@@ -4,6 +4,17 @@
   font-family: "Inter", sans-serif;
 }
 
+@media (max-width: 1000px) {
+  .image-logo {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 10%;
+    left: 0;
+    right: 50%;
+  }
+}
+
 .container {
   max-width: 1335px;
 }
@@ -48,6 +59,10 @@
 .sign-in-span-2-text {
   opacity: 50%;
   text-align: center;
+}
+
+.sign-in-button {
+  border-color: black;
 }
 
 .sign-in-button-1 {

@@ -20,7 +20,7 @@ ini didasari dengan banyaknya permintaan masyarakat yang ingin menonton namun in
 
 ## Getting Started
 
-1. Download this Project or you can type `git clone #link_git`
+1. Download this Project or you can type `git clone https://github.com/akbarsaladin36/xtickitz-booking-ticket-website-project.git`
 2. Open app's directory with your browser
 
 ## License
